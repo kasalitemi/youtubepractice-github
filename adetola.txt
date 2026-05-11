@@ -1,3 +1,4 @@
 Temitayo kaali file 
 DevOp Stuff 
 
+This is chnage in file i am doing for git command -amend 
